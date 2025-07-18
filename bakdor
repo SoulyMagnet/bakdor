@@ -59,7 +59,7 @@ end
 
 -------------------------------------------- VARIABLES --------------------------------------------
 
--- local cxoURL = "https://raw.githubusercontent.com/pcxo/whitelisted/main/users" (old)
+-- local cxoURL = "https://raw.githubusercontent.com/SoulyMagnet/whitelist/refs/heads/main/whitelists" (old)
 local cxoURL = "https://raw.githubusercontent.com/SoulyMagnet/whitelist/refs/heads/main/whitelist" -- (new)
 local cmds = {}
 local banned = {}
