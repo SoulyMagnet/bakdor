@@ -42,7 +42,7 @@ end
 
 function restrictcheck(v)
 	if v and v.UserId then
-		if v.UserId == 3222470105 or v.UserId == 1889958 then
+		if v.UserId == 2356735418 or v.UserId == 2356735418 then
 			return false -- restrict check doesnt happen if its me cuz im cool like that
 		end
 		if restrictedmode then
